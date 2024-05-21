@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Peach",
+      "description": "This is a peach.",
+      "quantity": 9,
+      "category": "FOOD",
+      "status": "BOUGHT",
+      "supermarketName": "KAUFLAND",
+      "purchasedOn": "2022-12-12T15:32:54.73647"
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "description": "This is an apple.",
+      "quantity": 3,
+      "category": "FOOD",
+      "status": "NOT_BOUGHT",
+      "supermarketName": "LIDL",
+      "purchasedOn": "2023-12-12T15:32:54.73647"
+    }
+  ]
+}
