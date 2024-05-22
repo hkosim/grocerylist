@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS Item;
+
 CREATE TABLE IF NOT EXISTS Item (
    id INT NOT NULL,
    name varchar(250) NOT NULL,
